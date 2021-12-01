@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+cd front-end
 npm install
 ```
 
