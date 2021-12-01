@@ -10,7 +10,7 @@
     <!--Footer -->
     <div class="footer-container">
         <div class="footer">
-            <a href="https://github.com/kyliecallaway404/creativeProjectCS260.git">Github Repository - By: Kylie Callway & Walter DeGering</a>
+            <a href="https://github.com/RefinedSnack/cs260_creative_project_04">Github Repository - By: Kylie Callway & Walter DeGering</a>
         </div>
     </div>
 </div>
