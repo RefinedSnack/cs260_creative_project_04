@@ -20,7 +20,7 @@ const commentSchema = new mongoose.Schema({
   time: Number,
   author: String,
   page: String,
-  rating: String
+  rating: Number
 });
 
 // Create a model for comments

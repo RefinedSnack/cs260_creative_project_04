@@ -43,7 +43,7 @@ export default {
       content: '',
       username: '',
       comments: [],
-      rating: ''
+      rating: 0
     }
   },
   props: {
